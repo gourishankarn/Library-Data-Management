@@ -1,2 +1,2 @@
 # Library-Data-Management
-its a project to maintain the students and library books data. it conatins all the inforamtion related to students and and books 
+it's a project to maintain the students and library books data. it contains all the information related to students and books 
